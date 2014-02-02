@@ -5,7 +5,7 @@ require 'zocial-rails/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "zocial-rails"
-  gem.version       = Zocial::Rails::VERSION
+  gem.version       = ZocialRails::VERSION
   gem.authors       = ["Jeffrey Lee"]
   gem.email         = ["jlee42@gmail.com"]
   gem.description   = %q{Adds Zocial CSS social buttons to Rails using the asset pipeline}
